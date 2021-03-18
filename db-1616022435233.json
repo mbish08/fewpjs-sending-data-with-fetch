@@ -14,11 +14,6 @@
       "dogName": "knox",
       "dogBreed": "pitbull",
       "id": 3
-    },
-    {
-      "dogName": "Byron",
-      "dogBreed": "Poodle",
-      "id": 4
     }
   ],
   "cats": [
